@@ -1,1 +1,1 @@
-# blockchaininroboticsandai.org
+Clean HTML for blockchaininroboticsandai.org, website for online workshop within IROS 2021
